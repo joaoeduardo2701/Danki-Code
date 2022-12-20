@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#area {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin: 20px auto;
+    line-height: 200px;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+    font-size: 30px;
+}
+

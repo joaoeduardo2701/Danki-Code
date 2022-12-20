@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.artigo {
+    margin: 20px;
+    margin-bottom: 40px;
+    text-align: justify;
+    font-family: 'Tahoma', Times, serif;
+    font-style: bold;
+
+}
+
+.artigo h1 {
+    text-align: center;
+    color: cyan;
+}
+
+.box {
+    width: 300px;
+    border: 10px solid black;
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+}

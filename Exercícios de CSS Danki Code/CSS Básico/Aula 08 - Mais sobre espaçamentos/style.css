@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.center {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: gray;
+    
+}
+
+.artigo {
+    width: 500px;
+    margin-right: -4px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+body > h1 {
+    text-align: center;
+}

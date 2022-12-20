@@ -1,0 +1,18 @@
+
+/* Classes usam o . e ids usam #*/
+
+.titulo1 {
+    color: red; 
+}
+
+.titulo2 {
+    color: blue;
+}
+
+#titulo1 {
+    color: purple;
+}
+
+#titulo2 {
+    color: pink;
+}
