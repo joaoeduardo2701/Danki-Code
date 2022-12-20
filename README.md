@@ -5,6 +5,7 @@ Esse repositório possui o intuito de divulgar os meus exercícios do meu curso 
 - [x] Introdução/Conceitos e configurando o ambiente de trabalho
 - [x] Entendendo o HTML
 - [x] Iniciando com o CSS
+- [x] Dominanndo o CSS
 - [ ] Design responsivo e Projeto prático #1
 - [ ] HTML5 e as novidades 
 - [ ] Conhecendo na prática o CSS3
@@ -12,6 +13,7 @@ Esse repositório possui o intuito de divulgar os meus exercícios do meu curso 
 - [ ] avaScriprt e Lógica de programação
 - [ ] Introduzindo o JQuery
 - [ ] Dominando o JQuery
+- [ ] Toques finais
 - [ ] Criando um Template de E-mail com HTML/CSS
 
 Mais por vir
