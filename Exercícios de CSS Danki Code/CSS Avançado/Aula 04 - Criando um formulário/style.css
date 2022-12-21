@@ -11,7 +11,8 @@ html, body {
 form {
     width: 96%;
     max-width: 600px;
-    margin: 0 auto;
+    margin:auto;
+    margin-top: 40px;
     text-align: center;
 }
 
@@ -26,9 +27,37 @@ form legend {
     color: rgb(130, 130, 130);
 }
 
-form input {
+.nome-email  {
     display: block;
+    margin: auto;
     margin-top: 15px;
     width: 80%;
-    padding: 10px 30px;
+    padding: 10px 13px;
+    border-radius: 20px;
+}
+
+form select {
+    width: 80%;
+    text-align: center;
+    padding: 10px 13px;
+}
+
+#idade {
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.radio-input {
+    display: inline-block;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.radio-input span {
+    margin-left: 13px;
+    font-size: 16px;
+}
+
+form h2 {
+    margin-top: 20px;
 }
