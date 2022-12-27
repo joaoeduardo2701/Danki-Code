@@ -50,7 +50,6 @@ form select {
 .radio-input {
     display: inline-block;
     margin-top: 20px;
-    text-align: left;
 }
 
 .radio-input span {
@@ -64,7 +63,26 @@ form h2 {
 
 .comidas {
     margin-top: 20px;
-
+    display: inline-block;
     text-align: left;
 }
 
+div textarea {
+    resize: none;
+    width: 400px;
+    margin-top: 20px;
+    height: 150px;
+    border: 1px solid #ccc;
+    outline: 0;
+}
+
+.submit-input {
+    text-align: center;
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(130, 130, 130);
+    color: white;
+    outline: 0;
+    cursor: pointer;
+}
