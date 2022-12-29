@@ -22,7 +22,7 @@ header {
 }
 
 .center {
-    width: 1280px;
+    width: 1200px;
     margin: 0 auto;
 }
 
@@ -109,4 +109,47 @@ form input[type=submit]:hover {
 
 form input[type=submit]:placeholder {
     color: white;
+}
+
+.container-list {
+    width: 619px;
+    height: 270px;
+    background-color: rgba(33, 35, 67, 0.7);
+    float: left;
+    margin-top: 130px;
+    padding: 10px;
+}
+
+.container-list ul li {
+    color: white;
+    list-style-position: inside;
+    margin-top: 18px;
+}
+
+/* Segunda sessão do site */
+
+.segundo-container {
+    padding: 40px 0;
+    background-color: #ddd;
+    text-align: center;
+}
+
+.segundo-container h1 {
+    margin-bottom: 20px;
+
+}
+.segundo-container p {
+    text-align: justify;
+    width: 698px;
+    margin: auto;
+}
+
+.arrow {
+    width: 40px;
+    height: 40px;
+    background-image: url(./imgs/arrow.png);
+    background-size: 100% 100%;
+    position: relative;
+    top: -20px;
+    margin: 0 auto;
 }
