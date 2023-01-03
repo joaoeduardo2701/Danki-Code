@@ -1,1 +1,32 @@
-    
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+}
+
+.clear {
+    clear: both;
+}
+
+.container {
+    width: 100%;
+    max-width: 580px;
+    margin: 20px auto;
+    padding: 30px;
+    border: 3px solid rgb(130, 130, 130);
+    text-align: center;
+}
+
+.img-wraper {
+    width: 33.3%;
+    padding-top: 33.3%;
+    float: left;
+    background-image: url(./teste.png);
+    background-position: center;
+    border: 5px solid white;
+}
+
