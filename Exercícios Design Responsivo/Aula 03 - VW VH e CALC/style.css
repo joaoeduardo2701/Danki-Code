@@ -1,11 +1,14 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 html, body {
     height: 100%;
 }
+
+/* Utilizando a propriedade calc e */
 
 /*
 .sidebar {
@@ -23,6 +26,7 @@ html, body {
 }
 */
 
+/* Utilizando a propriedade vw e vh
 /*
 .box {
     width: calc(100% / 3);
@@ -32,7 +36,7 @@ html, body {
 */
 
 .box { 
-    width: 100vw; /* VW significa Viewport width = largura do navegador  */
+    width: 100vw; /* VW significa Viewport width = largura do navegador */
     height: 100vh; /* VH significa Viewport height = altura do navegador */
     background-color: red;
 }
