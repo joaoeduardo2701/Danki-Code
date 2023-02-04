@@ -21,4 +21,11 @@ html, body {
     background-color: green;
     float: left;
     border: 1px solid black;
+    color: white;
+}
+
+@media screen and (max-width:768px) {
+    .box {
+        width: 100%;
+    }
 }
