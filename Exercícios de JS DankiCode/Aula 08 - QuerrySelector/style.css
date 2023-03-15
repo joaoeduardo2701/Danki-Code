@@ -1,0 +1,14 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.animEsquerda {
+    margin-left: 200px;
+    transition: 1s;
+}
+
+.animDireita {
+    margin-left: 0px;
+}

@@ -1,3 +1,6 @@
-var a = document.querySelectorAll('.box .inside-box')
+var box = document.querySelector(".box")
 
-a[0].
+
+setTimeout(()=>{
+    box.classList.add('animEsquerda')
+}, 1000)

@@ -1,0 +1,27 @@
+body {
+    background-color: gray;
+}
+
+.conteudo {
+    max-width: 1100px;
+    margin: auto;
+    background-color: white;
+    padding: 50px;
+}
+
+
+.conteudo p:first-of-type {
+    overflow: hidden;
+    height: 50px;
+    transition: 1s;
+}
+
+.conteudo #ver-mais {
+    font-size: 13px;
+    cursor: pointer;
+    color: blue;
+}
+
+.verMais {
+    height: auto !important;
+}
